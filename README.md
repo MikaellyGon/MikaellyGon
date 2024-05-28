@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 
 
-Meu nome  Mikaelly Gonçalves
+Meu nome é Mikaelly Gonçalves
 
 Estou estudando na Alura
 
